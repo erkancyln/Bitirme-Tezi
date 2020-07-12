@@ -1,2 +1,3 @@
-# erkan
-erkan
+# Bitirme Tezi
+
+Bitirme Tezi
